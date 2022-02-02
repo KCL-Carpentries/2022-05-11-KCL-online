@@ -121,7 +121,7 @@ This block displays the date and links to Google Calendar.
 {% if page.humandate %}
 <p id="when">
   <strong>When:</strong> 
-  {{page.humandate}}. The optional session will be held 2-3:15pm.
+  {{page.humandate}}. The optional session will be held 10-11:15am.
 </p>
 {% endif %}
 
